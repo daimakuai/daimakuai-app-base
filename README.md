@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/daimakuai" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+        <img src="logo.png" height="100px">
     </a>
     <h1 align="center">Daimakuai Basic Project Template</h1>
     <br>
