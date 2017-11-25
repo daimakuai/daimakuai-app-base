@@ -1,7 +1,7 @@
 {
     "name": "daimakuai/daimakuai-app-base",
-    "description": "The Laravel BBC Shop Framework.",
-    "keywords": ["framework", "laravel", "Shop","daimakuai"],
+    "description": "Daimakuai Basic Project Template.",
+    "keywords": ["daimakuai","framework", "laravel", "Shop"],
     "license": "MIT",
     "type": "project",
     "require": {
