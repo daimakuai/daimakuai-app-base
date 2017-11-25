@@ -42,6 +42,16 @@ composer create-project --prefer-dist --stability=dev daimakuai/daimakuai-app-ba
 php artisan vendor:publish --provider="Jblv\Admin\AdminServiceProvider"
 
 
+创建数据库，修改 .env  文件里的数据库配置
+
+
 php artisan admin:install
+
+
+php artisan serve
+
+
+visit http://127.0.0.1:8000
+
 
 ```
