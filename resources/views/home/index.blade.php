@@ -83,11 +83,11 @@
                 </div>
 
                 <div class="links">
-                    <a href="http://demo.daimakuai.com" rel="nofollow" target="_blank">Demo</a>
+                    <a href="http://demo.daimakuai.com" target="_blank">Demo</a>
                     <a href="http://www.75271.com"  target="_blank">HappyOnion</a>
-                    <a href="https://laravel-news.com" rel="nofollow" target="_blank">News</a>
-                    <a href="https://laravel.org" rel="nofollow"  target="_blank">Laravel</a>
-                    <a href="https://packagist.org/packages/jblv/daimakuai" rel="nofollow" target="_blank">Packagist</a>
+                    <a href="https://daimakuai.com"  target="_blank">Daimakuai</a>
+                    <a href="https://new.daimakuai.com" rel="nofollow"  target="_blank">News</a>
+                    <a href="https://help.daimakuai.com" rel="nofollow" target="_blank">Help</a>
                 </div>
             </div>
         </div>
